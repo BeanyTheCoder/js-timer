@@ -8,9 +8,9 @@ A simple timer that can pause and resume.
 
 ## Installation & Usage 🛠️
 
-1. Clone the repository using `git clone https://github.com/BeanyTheCoder/repo-name.git`.
+1. Clone the repository using `git clone https://github.com/BeanyTheCoder/js-timer.git`.
 
-2. Navigate to the project directory using `cd  repo-name`.
+2. Navigate to the project directory using `cd  js-timer`.
 3. Open the `index.html` file using any web browser of your choice.
 
 ## Screenshots 📷
